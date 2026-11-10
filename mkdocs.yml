@@ -1,0 +1,6 @@
+site_name: Dongyuan Shengda Cellulose Ethers Technical Documentation
+site_url: https://dry-mix-mortar-formulation-hpmc.readthedocs.io/
+theme:
+  name: readthedocs
+nav:
+  - Home: index.md
